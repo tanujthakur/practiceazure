@@ -1,1 +1,1 @@
-# practiceazure
+# practice-azure
